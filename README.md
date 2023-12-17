@@ -14,7 +14,7 @@ Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebh
 If a red dot appears on the menu, it will also notify with a sound. Created based on the idea by [akim](https://minesweeper.online/player/3639178).  
 
 ### How to install
-After installing Tampermonkey, select the one you want to use and install it.
+Install the script after installing Tampermonkey.
 
 Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
 
