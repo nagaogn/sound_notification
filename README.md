@@ -1,4 +1,4 @@
-Minesweeper Onlineで、メニューに赤い点の通知が出たときに音でも通知する。[akim](https://minesweeper.online/player/3639178)さんのアイデアを基に作りました。  
+Minesweeper Onlineで、メニューに赤い点の通知が出たときに音でも通知する。ウィンドウを小さくしていてメニューが見えないときとかに使える。[akim](https://minesweeper.online/player/3639178)さんのアイデアを基に作りました。  
 
 ### 導入方法  
 Tampermonkeyをインストールしてからスクリプトをインストールしてください。  
@@ -11,10 +11,10 @@ Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebh
 
 ***
 
-If a red dot appears on the menu, it will also notify with a sound. Created based on the idea by [akim](https://minesweeper.online/player/3639178).  
+In Minesweeper Online, If a red notification dot appears on the menu, it will also notify with a sound. This is useful, for example, when the window is small and the menu is not visible. Created based on the idea by [akim](https://minesweeper.online/player/3639178).  
 
 ### How to install
-Install the script after installing Tampermonkey.
+Install Tampermonkey and then install the script.  
 
 Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
 
